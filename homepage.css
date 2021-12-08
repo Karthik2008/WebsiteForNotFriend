@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#hoverbutton{
+    background-color: black;
+    color: pink;
+    border: 3px solid pink;
+    padding: 5px 12px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    height: 45px;
+    width: 165px;
+    margin-top: 15%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#hoverbutton:hover {
+    height: 65px;
+    width: 285px;
+    font-size: 40px;
+    background-color: pink;
+    color: black;
+}

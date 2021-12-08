@@ -1,0 +1,33 @@
+body{
+    background-color:#861657;
+    background-image:linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+}
+
+#jennie{
+    float: left;
+    width: 300px;
+    height: 350px;
+}
+
+#rose{
+    margin-top: 20%;
+    float: right;
+    width: 300px;
+    height: 350px;
+}
+
+#jisoo{
+    margin-top: 40%;
+    margin-left: -16.8%;
+    float: left;
+    width: 300px;
+    height: 310px;
+}
+
+#wishes{
+    color: black;
+}
+
+#from{
+    color: palevioletred;
+}
